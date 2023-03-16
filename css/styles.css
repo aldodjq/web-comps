@@ -5,18 +5,92 @@
 }
 .contenedor{
     margin: 80px auto;
-    width: 70%;
-    outline: 3px solid ;
     height: 300px;
+    border: 1px solid;
     display: flex;
+    flex-wrap: wrap;
+    align-content: start;
+    gap: 10px;
+    overflow: hidden;
+   
 }
 
 .flex1{
-    background: skyblue;
+    height: 100px;
+    width: 100px;
+    background: red;
+    
 }
 
 .flex2{
-    background-color: blueviolet;
-    position: relative;
-    right: 40px;
+    
+    height: 100px;
+    width: 100px;
+    background: skyblue;
+  
+  
+}
+.flex3{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(167, 71, 27);
+  
+  
+}
+.flex4{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(139, 194, 12);
+  
+  
+}
+.flex5{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(42, 16, 66);
+  
+  
+}
+.flex6{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(160, 18, 18);
+  
+  
+}
+.flex7{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(31, 185, 90);
+  
+  
+}
+.flex8{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(212, 209, 24);
+  
+  
+}
+.flex9{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(12, 15, 167);
+  
+  
+}
+.flex10{
+    
+    height: 100px;
+    width: 100px;
+    background: rgb(33, 190, 169);
+  
+  
 }
